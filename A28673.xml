@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new constellation discovered in a sermon preached at the visitation held at Leicester the 29th of April, 1674 / by Joshua Bonhome.</title>
+            <author>Bonhome, Joshua.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28673</idno>
+            <idno type="STC">Wing B3594</idno>
+            <idno type="STC">ESTC R24665</idno>
+            <idno type="EEBO-CITATION">08403343</idno>
+            <idno type="OCLC">ocm 08403343</idno>
+            <idno type="VID">41278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1247:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new constellation discovered in a sermon preached at the visitation held at Leicester the 29th of April, 1674 / by Joshua Bonhome.</title>
+                  <author>Bonhome, Joshua.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.G. and are to be sold by Moses Pitt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation I, 16 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:41278:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>Ex Aed. <hi>Lambethanis,</hi> 
+                  <date>Martii 3<hi rend="sup">o</hi>. 1674.</date>
+               </dateline>
+               <signed>THO. TOMKYNS.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:41278:1" rendition="simple:additions"/>
+            <p>
+               <hi>A New Conſtellation:</hi> Diſcovered in a SERMON Preached at the VISITATION Held at <hi>Leicester</hi> the 29<hi rend="sup">th</hi> of <hi>April,</hi> 1674.</p>
+            <p>BY <hi>JOSH<g ref="char:V">Ʋ</g>A BONHOME,</hi> Rector of <hi>Saddington</hi> in the County of <hi>LEICESTER.</hi> Chaplain in Ordinary to His MAJESTY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. G.</hi> and are to be ſold by <hi>Moſes Pitt,</hi> at the ſign of the Angel in St. <hi>Paul</hi>'s Churchyard. 1675.</p>
+         </div>
+         <div rend="italic" type="dedication">
+            <pb facs="tcp:41278:2"/>
+            <pb facs="tcp:41278:2"/>
+            <head>TO THE RIGHT HONORABLE, <hi>HENRY COVENTRY</hi> Eſq; Of His MAJESTIES moſt Honorable Privy Council, and Principal Secretary of State.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>I Could not preſume to preſent this unpo<g ref="char:EOLhyphen"/>liſhed Diſcourſe (in it ſelf unworthy of Your Acceptation) under the high Patronage of Your Honour, if I did not know (by undeſerved Experience) that as the holy Angels of God, which though they be called Principalities and Powers, and behold continually the face of the Lord of lords and King of Kings, our Heavenly Father; yet are of ſo generous, ſo noble, and ſo loving Condeſcention, that they joyfully undertake, to be Miniſtring Spi<g ref="char:EOLhyphen"/>rits to the meanest Servants of their Lord and Master, and to be Instru<g ref="char:EOLhyphen"/>ments in his Divine Hands, for their
+<pb facs="tcp:41278:3"/>Comfort and Deliverances: So Your Ho<g ref="char:EOLhyphen"/>nour doth dayly imitate thoſe glorious Spi<g ref="char:EOLhyphen"/>rits, in doing good, with an unparallel'd Nobleneſs, to all ſuch whoſe Allegiance and Loyalty to our Soveraign is known to You; proving Your ſelf a true Imitatour of him, who though he be of all that is good the beſt, and of all that's great the greateſt, yet delights to prefer his Goodneſs before his Greatneſs.</p>
+            <p>All our Engliſh <hi>Iſrael</hi> knows, as well as my ſelf, the Eminency of the Place Your Honour enjoyeth in this Kingdom, under our Gracious Soveraign; but the Expe<g ref="char:EOLhyphen"/>rience of Your Noble Favours to me, upon ſeveral occaſions, forceth me to conclude, this height of Truſt and Dignity becomes yet more Honourable, and deſerves to be more admired, in that You are pleaſed (and that frequently) to divert Your Eyes from the ſight and glory of the talleſt Ge<g ref="char:EOLhyphen"/>dars, and to impart a glance to the loweſt Shrubs; like <hi>Solomon,</hi> who ſpake not only of thoſe goodly Trees in <hi>Lebanon,</hi> but of
+<pb facs="tcp:41278:3"/>the very Hyſſop, that ſpringeth out of the Wall.</p>
+            <p>Sir, This poor Sermon, which I preached in the Audience of many Grave and Learned Divines, and which ſome Well-wiſhers to the Church of <hi>England</hi> and the Mi<g ref="char:EOLhyphen"/>nistry, have thought not to be unworthy of appearing in Publick, in order to Diſa<g ref="char:EOLhyphen"/>buſe many poor Souls, who by Recuſants perſwaſions, do not only lightly eſteem our Calling, but as if they were the only People of God, (and ſuch they boaſt themſelves to be) look upon it as being no better than that of the Prieſts of <hi>Baal,</hi> (for ſo many of them are pleaſed to call us;) and on our moſt Reverend Prelates, and the whole Clergy of this Land, as being no better (if not worſe) than the Prieſts of Antichriſt.</p>
+            <p>This poor Sermon, I ſay, I make bold to preſent to Your Honour, with all poſſible Reſpect, the beſt of all I can do being juſtly due, and devoted to Your Honour, as a ſmall diſcharge of my Duty, and an hearty acknowledgement of my Obligation. Be<g ref="char:EOLhyphen"/>ſeeching
+<pb facs="tcp:41278:4"/>Almighty God, long to preſerve Your Honour, (after the joy of our heart, and the breath of our noſtrils, His Moſt Excellent Majeſty,) a Friend and Support to all ſuch as fear God, and the King.</p>
+            <p>That as he hath called You by name, to be one of the Valiant men of <hi>Iſrael,</hi> which compaſs the Bed of our <hi>Solomon,</hi> he may be pleaſed to make You more and more In<g ref="char:EOLhyphen"/>strumental, for the good of this Land, and the Service of our Soveraign; and fill You, like <hi>Bezaleel,</hi> with the Spirit of God, in Wiſdom, and <g ref="char:V">Ʋ</g>nderſtanding, and Know<g ref="char:EOLhyphen"/>ledge, for the Service both of the Throne and Tabernacle, the State and the Church.</p>
+            <p>For theſe, and all other Bleſſings, Tem<g ref="char:EOLhyphen"/>poral and Spiritual, upon Your Noble perſon, ſhall ever pray, the meaneſt among the many thouſands that are called to the Sacred Prieſthood, and</p>
+            <closer>
+               <signed>YOUR HONOURS Moſt humble, moſt obedient, and moſt obliged Servant, <hi>JOSHUA BONHOME.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:41278:4"/>
+            <epigraph>
+               <bibl>
+                  <hi>Revelat.</hi> chap. <hi>I.</hi> verſ. <hi>16.</hi>
+               </bibl>
+               <q>And he had in his right Hand ſeven Stars.</q>
+            </epigraph>
+            <p>AS God at ſundry times,
+<note place="margin">Heb. 1.1.</note> and in divers manners, ſpake in time paſt unto the Fathers by the Prophets; to the end that all men might know the greatneſs and the glory, as well as the good<g ref="char:EOLhyphen"/>neſs, the mercifull, and loving kindneſs of the Lord: ſo in divers manners, and at ſundry times hath he appeared, in dreadfull and glo<g ref="char:EOLhyphen"/>rious Viſions unto his Servants, that they might with a better ſucceſs convince all thoſe they were ſent unto of their own Vileneſs, Rebellion, and Prophaneneſs; and (if I may ſo ſpeak) breed and plant, in their ſinfull and
+<pb n="2" facs="tcp:41278:5"/>deceitfull Hearts, a godly fear, and a holy reverence of ſo glorious a Majeſty; and in their Minds, a true, perfect, and earneſt ſub<g ref="char:EOLhyphen"/>miſſion, unto the words of him that com<g ref="char:EOLhyphen"/>mands all men, to be holy as he is Holy.</p>
+            <p>In ſuch a glorious, and fearfull Viſion, the great Jehovah was pleaſed to appear, not to <hi>Moſes</hi> only, but to the whole Camp of <hi>Iſrael</hi> in the Wilderneſs, when Mount <hi>Sina</hi> was al<g ref="char:EOLhyphen"/>together on a ſmoak, becauſe <hi>the Lord,</hi> (who is a conſuming Fire) <hi>deſcended upon it in fire,</hi>
+               <note place="margin">Exod. 19.18.</note> 
+               <hi>and the whole mount quaked greatly.</hi> Of the ſame nature was that of the Prophet <hi>Eſaias,</hi> when he ſaw <hi>the Lord ſitting upon a throne, high and lifted up,</hi> when <hi>his train filled the Temple, and above it stood the Seraphims, crying one to another, Holy, holy, holy is the Lord of Hoſts, the whole earth is full of his glory;</hi> when <hi>the poſts of the door moved at the voice of him that cryed, and the houſe was filled with ſmoak.</hi> As you may ſee in the firſt Verſe of the ſixth Chapter of the Prophecy of the ſame Prophet. And that the Houſe of <hi>Iſrael</hi> might be convinced, and left without excuſe, for their impudency, ſtiff<g ref="char:EOLhyphen"/>heartedneſs and rebellion againſt the Lord, then ſent he to his Prophet <hi>Ezechiel</hi> the Viſion of a Whirlwind coming out of the North, of a great Cloud, a Fire, and a Brightneſs; that of the likeneſs of four living Creatures, whoſe appearance was like burning Coals of Fire,
+<pb n="3" facs="tcp:41278:5"/>and like the appearance of Lamps. And the likeneſs of the Firmament, upon the heads of the living Creatures, of the colour of the terrible Cryſtal, and above the Firmament that was over their heads, was the likeneſs of a Throne, as the appearance of a Saphire ſtone, and upon the Throne was the likeneſs, as the ap<g ref="char:EOLhyphen"/>pearance of a man above upon it. And as the living God, by theſe fearfull <hi>Ideals,</hi> and amazing Repreſentations of his Glory, would bring the Church of <hi>Iſrael</hi> to a ſober conſide<g ref="char:EOLhyphen"/>ration, of the Excellency of his Word, that they might at laſt be perſwaded and drawn to an entire and true Obedience to the ſame, and with more diligence and earneſtneſs, admit and receive the Holy Inſtructions of his Prophets, whom he had Honoured with theſe glorious Images and Repreſentations of his Greatneſs, and incomprehenſible Infiniteneſs.</p>
+            <p>So in the days of the Goſpel, wherein he hath ſpoken unto us by his own Son;
+<note place="margin">Heb. 1.2.</note> 
+               <hi>Whom he hath appointed heir of all things; to the end we might lay apart all ſuperfluity of naughtineſs, and receive with meekneſs the Word which is able to ſave our Souls,</hi> as St. <hi>James</hi> ſpeaketh, <hi>Jam.</hi> 1. <hi>verſ.</hi> 21. he hath given the Church an infal<g ref="char:EOLhyphen"/>lible Witneſs, and an undoubted Proof, that though <hi>He appeared in the form and likeneſs of a Servant,</hi>
+               <note place="margin">Phil. 2.7.</note> yet <hi>He was the brightneſs of the glory of the Father, and the expreſs image of his perſon;</hi>
+               <note place="margin">Heb. 1.3.</note>
+               <pb n="4" facs="tcp:41278:6"/>which appeared in the Miracles, and Wonders that he wrought upon ſeveral occaſions; but eſpecially when in the Holy Mount of <hi>Tabor</hi> he received of God the Father honour and glory in his Transfiguration, a voice coming to him from the Excellent Glory, ſaying, <hi>This is my beloved Son,</hi>
+               <note place="margin">2 Pet. 2.17.</note> 
+               <hi>in whom I am well pleaſed.</hi>
+            </p>
+            <p>And to ſay nothing at preſent of the Won<g ref="char:EOLhyphen"/>ders that accompanied his Death, as the rent<g ref="char:EOLhyphen"/>ing of the Vail of the Temple, the Eclipſe of the Sun, the cleaving of Rocks, the raiſing of the Dead, and the quaking of the Earth; when this bleſſed Saviour had by himſelf pur<g ref="char:EOLhyphen"/>ged our Sins,
+<note place="margin">Heb. 1.</note> and ſate down on the Right Hand of the Majeſty on high, his ſending down the Holy Ghoſt upon his Apoſtles,
+<note place="margin">Act. 2.3.</note> in the appearance of Cloven Tongues, like as of Fire, and the ſudden Gift of ſpeaking many Languages, were no leſs powerfull, nay, more convincing Arguments, for the receiving of the Goſpel, which brings and offers Salvation to all men.</p>
+            <p>But becauſe, naturally, Man's Infidelity is ſuch, that unleſs they ſee a ſpecial Character on thoſe, by whom the Lord is pleaſed to ſend unto them the glad tydings of the Go<g ref="char:EOLhyphen"/>ſpel, they will no more believe them than the <hi>Jews</hi> did our Saviour; therefore this bleſſed Redeemer, the Author and Finiſher of our
+<pb n="5" facs="tcp:41278:6"/>Faith, hath beſtowed on his Servants the Preachers and Miniſters of the Goſpel, not only the inward aſſiſtance and preſence of his Spirit, but alſo glorious and honourable Titles, that thoſe as are to be led by them into the ways of Truth, may with a more cheerfull ſpontaneity, ſuffer themſelves to be preſented (by their Miniſtry) Holy, and unblameable,
+<note place="margin">Col. 1.22.</note> and unreprovable in his ſight.</p>
+            <p>Of which glorious Titles, as well as of the ſpecial care he hath of his Servants, the Miniſters of his Holy Word and Sacraments, you have an excellent Proof, and Warrant to<g ref="char:EOLhyphen"/>gether, in the words of my Text; wherein you ſee the <hi>Alpha</hi> and <hi>Omega,</hi> the firſt and laſt,
+<note place="margin">Rev. 1.11. Col. 1.15. Iſa. 9.6.</note> the Image of the inviſible God, the Firſt-born of every Creature, whoſe name is called the Wonderfull, the Counſellor, the Mighty God, the Everlaſting Father, and the Prince of Peace; appearing to his holy Apoſtle, walk<g ref="char:EOLhyphen"/>ing in the midſt of ſeven Golden Candleſticks, the lively Image and Repreſentation of the ſeveral parcels of his Church, and of his Go<g ref="char:EOLhyphen"/>ſpel, the true Lamp of this Spiritual San<g ref="char:EOLhyphen"/>ctuary, <hi>Having in his right hand ſeven Stars.</hi> Which words, though they ſet forth and re<g ref="char:EOLhyphen"/>preſent to our Underſtanding at firſt ſight, the <hi>Idea</hi> of a Myſtical ſenſe, yet will make it appear as clear and bright, as the things it is borrowed from, if in the handling of them
+<pb n="6" facs="tcp:41278:7"/>you will be pleaſed to conſider and examine with me;</p>
+            <p>Firſt, What is meant by the Stars, and why they are ſo called?</p>
+            <p>And ſecondly, Why, and how they are ſaid to be in the right hand of Chriſt? <hi>And he had in his right hand ſeven Stars.</hi>
+            </p>
+            <p>For the Firſt. As the words are ſpoken Myſtically, and not Literally, we are not to conceive the Lord Jeſus as really holding in his right hand ſeven of thoſe Celeſtial light<g ref="char:EOLhyphen"/>ſom Bodies which commonly we call Stars; for he might not have appeared on Earth with them, for many Reaſons, but chiefly for this, That, if we do believe Aſtronomers, the leaſt Star is Eighteen times bigger than the whole Earth, therefore we may ſafely conclude this Viſion of St. <hi>John</hi> to have been nothing elſe but an Aenigmatical and Myſtical Repreſen<g ref="char:EOLhyphen"/>tation of the Miniſters Calling (I mean a Lawfull Calling) to be of Chriſt, of his ſpe<g ref="char:EOLhyphen"/>cial care of them, and of the Obedience, men over whom they Rule, are to yield to their wholeſom words and Doctrine, as being the ſaving words of him who is called the Sun of Righteouſneſs, and by whoſe divine light they ſee and receive light, as the Prophet <hi>David</hi> ſaith;
+<note place="margin">Pſal. 36.9.</note> that others may be cheared up by their borrowed light, in the Spiritual dark<g ref="char:EOLhyphen"/>neſs
+<pb n="7" facs="tcp:41278:7"/>of this World, as men in the Natural darkneſs, are comforted by the light the Stars receive and have from the material Sun.</p>
+            <p>In Holy Scripture, thoſe things are called Stars, which have an outward glory, dignity, and ſplendor. So <hi>David</hi>'s Kingdom is called a Star,
+<note place="margin">Numb. 24.17.</note> even by <hi>Balaam</hi> in the Book of <hi>Num<g ref="char:EOLhyphen"/>bers,</hi> chap. 24. verſ. 17. <hi>There ſhall come a Star out of Jacob, and a Scepter ſhall riſe out of Iſ<g ref="char:EOLhyphen"/>rael.</hi>
+            </p>
+            <p>And in the Prophet <hi>Iſaiah,</hi> chap. 14. verſ. 12. the Kingdom of <hi>Babylon</hi> is called a Morning-Star; <hi>How,</hi> ſaith he, <hi>art thou fallen from heaven,</hi>
+               <note place="margin">Iſa. 14.12.</note> 
+               <hi>O Lucifer ſon of the morning?</hi>
+            </p>
+            <p>And in the Book of <hi>Geneſis,</hi> chap. 37. verſ. 10. the Sun, and the Moon, and the Eleven Stars, in <hi>Joſeph</hi>'s Dream, are interpreted by <hi>Jacob,</hi> to be <hi>Joſeph</hi>'s Father, Mother, and Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>But in our Text, the ſeven Stars in the right hand of our Lord and Bleſſed Redeemer Jeſus Chriſt, do repreſent the ſeven Angels of the ſeven Churches of <hi>Aſia</hi> the Leſs; as Chriſt witneſſeth himſelf in the laſt verſe of this Chapter; and in them, the whole Body of all the Miniſters of Chriſt, and Preachers of his Goſpel. Which Interpretation if any man thinks to be too honourable and too high for the Miniſters of the Church of Chriſt, be<g ref="char:EOLhyphen"/>cauſe the Apoſtle, in the ſecond Epiſtle to
+<pb n="8" facs="tcp:41278:8"/>the <hi>Corinthians,</hi> chap. 4. verſ. 5. ſpeaking in his own name, and of all other Miniſters, ſaith,
+<note place="margin">2 Cor. 4.5.</note> 
+               <hi>We our ſelves are your ſervants for Jeſus ſake.</hi> And in the laſt verſe of the firſt Cha<g ref="char:EOLhyphen"/>pter of the ſame Epiſtle, <hi>We have no dominion over your faith, but are helpers of your joy:</hi> I would have him to reflect upon the glorious Titles the Holy Scripture attributes to theſe Servants of Chriſt and of his Church, for they are called Angels, as well as Stars, in the three firſt Chapters of this <hi>Revelation.</hi>
+            </p>
+            <p>In the firſt Epiſtle to the <hi>Corinthians,</hi> chap. 4. verſ. 1. <note place="margin">1 Cor. 4.1.</note> they are to be accounted of all, as the Miniſters of Chriſt, and the Stewards of the Myſteries of God; in other places they are called the Ambaſſadors of Chriſt, and Co<g ref="char:EOLhyphen"/>workers with God.</p>
+            <p>In the Goſpel of St. <hi>Matthew,</hi> chap. 5. verſ. 13, 14. they are ſaid to be the Light of the World,
+<note place="margin">Mat. 5.13, 14.</note> and the Salt of the Earth, be<g ref="char:EOLhyphen"/>cauſe they are in the hands of Chriſt, not only as lightſom Stars, but as an excellent Salt, to keep from Spiritual corruption, thoſe that embrace and believe the Goſpel.</p>
+            <p>And in the ſame Goſpel, <hi>chap.</hi> 10. <hi>verſ.</hi> 40. their Bleſſed Maſter ſhews, what account his makes of them, when he telleth them, <hi>He that receives you receives me,</hi>
+               <note place="margin">Mat. 10.40.</note> 
+               <hi>and he that receives me receives him that ſent me.</hi>
+            </p>
+            <p>And in the ſame Chapter of St. <hi>Luke,</hi>
+               <pb n="9" facs="tcp:41278:8"/>verſ. 16. <hi>He that heareth you heareth me,
+<note place="margin">Luke 10.16.</note> and he that deſpiſeth you, deſpiſeth me; and he that deſpiſeth me, deſpiſeth him that ſent me.</hi>
+            </p>
+            <p>Theſe be Witneſſes enough, to vindicate the Excellency of our Holy Function; but yet give me leave to add one word more, to prove that the Miniſters of the Church are called Stars, in the ſame ſenſe the Church is called the Hoſt, and the Kingdom of Heaven.</p>
+            <p>In the Prophet <hi>Daniel,</hi> chap. 8. verſ. 10. the prophanation of the Sanctuary of the Lord, by <hi>Antiochus,</hi> and his Cruelty to the Church of God and her Prieſts, is ſet down in theſe very words, <hi>And it waxed great,</hi> (that is, the little Horn ſpoken of in the ninth Verſe,) <hi>even to the hoſt of heaven;</hi>
+               <note place="margin">Dan. 8.10.</note> 
+               <hi>and it cast down ſome of the hoſt, and of the ſtars, to the ground, and ſtamped upon them.</hi>
+            </p>
+            <p>In the eighth Chapter, and the tenth Verſe of this <hi>Revelation</hi> of St. <hi>John,</hi>
+               <note place="margin">Rev. 8.10.</note> 
+               <hi>When the third Angel ſounded, there fell a great star from heaven, burning as it were a lamp;</hi> where the word <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> is taken for the Church, and by this Star that fell down from it, is meant a Doctor or Biſhop of great Honour, and outward Glory, (I need not tell you whom it relates to, you know it well enough,) who forſaking the purity of the Goſpel, and the wholeſom and ſaving Doctrine thereof, that is, revolting and falling from the true Faith, will give heed
+<pb n="10" facs="tcp:41278:9"/>to ſeducing Spirits and doctrines of Devils, as St. <hi>Paul</hi> ſaith to <hi>Timothy.</hi> 1 <hi>Tim.</hi> chap. 4. verſ. 1.</p>
+            <p>And at the twelfth Verſe, <hi>When the fourth Angel ſounded, the third part of the ſun was ſmit<g ref="char:EOLhyphen"/>ten, and the third part of the moon, and the third part of the ſtars:</hi> By the third part of the Sun is repreſented the Doctrine of the Goſpel, and the ſaving knowledge of God, and of his Son Jeſus Chriſt; by the Moon, the true Church; and by the Stars, the Miniſters there<g ref="char:EOLhyphen"/>of, as moſt part of Learned Interpreters ac<g ref="char:EOLhyphen"/>knowledge.</p>
+            <p>Thus you ſee, that not only in our Text, but in many other places of Scripture, the Holy Spirit of God is pleaſed to honour the Miniſters and Servants of Chriſt with this glorious Title; intending, doubtleſs, by it to curb and re<g ref="char:EOLhyphen"/>ſtrain the ſawcineſs and malice of this wicked Generation, who deſpiſing their comfortable Influences, and calling their Light Darkneſs, doth look upon them, and account of them, as of ſo many Blazing-Stars, that portend nothing but Ruine and Deſtruction.</p>
+            <p>Now they are ſo called, becauſe in their Ordination they are created, if I may ſo ſpeak, that is, ſet apart and conſecrated for the Mi<g ref="char:EOLhyphen"/>niſtry of the Word in the Church of God, (which is as a new Heaven, or, if you will have me to expreſs my ſelf in the words of Chriſt, the new <hi>Jeruſalem,</hi> which cometh down
+<pb n="11" facs="tcp:41278:9"/>out of Heaven from God) for the very ſame ends and purpoſes,
+<note place="margin">Rev. 3.12.</note> the Stars at firſt were crea<g ref="char:EOLhyphen"/>ted and ſituated in the Firmament. Which if we conſider a little, will make good the ſecond Branch of my firſt Part, <hi>Why they are called Stars?</hi> Which I think to be, becauſe of the many Reſemblances they have one with another.</p>
+            <p>For Firſt, The Stars, you know, are thought to be of the ſame Subſtance and Matter the Heavens are, but more thick and lightſom: So the Miniſters of the Church are of the ſame Nature and Subſtance all the other Members of the Church are; and yet are not to be eſteemed the worſe for it, no more than the Stars for being of the ſame Subſtance the Hea<g ref="char:EOLhyphen"/>vens are of. Nay, I ſay it is their Glory it is ſo, for by it they better reſemble their Lord and Maſter; who being our High-Prieſt, and the Everlaſting Son of the Father, yet called himſelf the Son of Man; and though he be the true Morning-Star, as he ſaith himſelf, <hi>Rev.</hi> 2.28. nay the true God,
+<note place="margin">Phil. 2.7.</note> yet took upon him the form of a Servant.</p>
+            <p>Secondly, As the Stars do both lighten and quicken all Inferiour things, by their Light and Influences, are as the Eyes of the World, and more bright and ſplendid than other parts of the Heavens: So the Miniſters of the Church are the light of the World, and by
+<pb n="12" facs="tcp:41278:10"/>their Doctrine, Life, and Example, are to ſhine in the midſt of a Crooked generation as Lights in the World, as they have a ſpecial Command in the Epiſtle to the <hi>Philippians,</hi> chap. 2. verſ. 15.</p>
+            <p>Thirdly, As the Stars brightneſs and light ſhines more gloriouſly in the night than in the day time, and darts out more vigorous Beams, in a cold, dry, froſty Night, than when the Air drops the Dew upon the face of the Earth: So the Miniſters of Chriſt are bound to cauſe their Faith, and Knowledge of the Truth, to ſhine and ſparkle, with more luſtre and radiancy, in the Night of Ignorance, and againſt the dark<g ref="char:EOLhyphen"/>neſs and confuſions of Hereticks, and diſturbers of the Peace of the Church, than when ſhe enjoyeth the Spiritual Dew of Tranquillity and Peace.</p>
+            <p>Fourthly, The Stars are the Guide and di<g ref="char:EOLhyphen"/>rection of Travellers, and eſpecially of Sea-men: The Miniſters of Chriſt likewiſe, by their godly Inſtructions, do guide and direct men in the ways of Truth and Holineſs; and he that Rules both Sun, Moon, and Stars, is pleaſed to uſe their Miniſtry,
+<note place="margin">Pſal. 107.30.</note> to the bringing of them unto their deſired Haven.</p>
+            <p>Fifthly, Every Star hath its own degree of Virtue and Light, for <hi>One star differs from ano<g ref="char:EOLhyphen"/>ther star in glory,</hi> ſaith St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 15.41. though their Light is derived from the ſame
+<pb n="13" facs="tcp:41278:10"/>principle: So every Miniſter of the Goſpel hath his own proper Gift, and though there are di<g ref="char:EOLhyphen"/>verſities of Gifts, yet there is but the ſame Spi<g ref="char:EOLhyphen"/>rit, as the ſame Apoſtle witneſſeth in <hi>chap.</hi> 12. <hi>verſ.</hi> 4. of the ſame Epiſtle.</p>
+            <p>Sixthly, The Stars have every one their place, order, and ſituation,
+<note place="margin">Pſal. 8.3.</note> and keep it in<g ref="char:EOLhyphen"/>violably, without mixing together confuſedly; having been ordained of God, to keep their ſeveral Ranks and Courſes: So every one that hath the priviledge to be called to the Spiritual Prieſthood of the Church of Chriſt,
+<note place="margin">Heb. 5.4.</note> as <hi>Aaron</hi> was to the Prieſthood of the Law, muſt have a ſpecial care of the Place and Rank God hath appointed unto him, and not meddle with, nor trouble the Order and Place of others; leſt they incurr ſuch a cenſure as God gave againſt falſe Prophets in the Prophet <hi>Jeremy</hi>'s time, <hi>I ſent them not, neither have I commanded them, neither ſpake unto them.</hi> Jer. <hi>chap.</hi> 14. <hi>verſ.</hi> 14.</p>
+            <p>Seventhly, The Stars are not the Light, but only burning and gliſtering Lamps: So the Miniſters of Chriſt are only burning Lamps, and Witneſſes of the Light, in the Sanctuary of the Lord, and not properly the Light it ſelf; as it is ſaid of St. <hi>John</hi> the Baptiſt, <hi>He was not that light, but was ſent to bear witneſs of that light.</hi> Joh. <hi>chap.</hi> 1. <hi>verſ.</hi> 8.</p>
+            <p>Eightly, The Stars have no power or in<g ref="char:EOLhyphen"/>fluence upon Superiour and Nobler things, as
+<pb n="14" facs="tcp:41278:11"/>the Soul, Mind, and Will of man: The Mi<g ref="char:EOLhyphen"/>niſters likewiſe, have not of themſelves the ſtrength and power to change and convert the Souls of men; it is the proper work of God, and his own prerogative.</p>
+            <p>Ninthly, There have been Stars ſeen in Heaven, at ſeveral times, which never appeared before or after, as that which appeared to the Wiſe-men, at the Birth of our Saviour, <hi>Mat.</hi> 2. another in the year 1572. that cauſed a general admiration all the World over: And ſo hath God cauſed many extraordinary Stars, that is, Miniſters and Witneſſes of his Truth, to appear at ſeveral times in the Church, for the ſpecial ſetting forth of the Truth of Chriſt, and con<g ref="char:EOLhyphen"/>vincing the World, and the Church; that though many falſe Teachers, diſturbers of the Peace and Tranquillity of this New <hi>Jeruſalem,</hi> pretend to be the only Stars of this Spiritual Firmament; yet are they nothing elſe but Airy impreſſions and apparitions, who like Blazing-Stars, leave nothing behind them, and infect the World with nothing elſe but corrupt and ſtinking Influences.</p>
+            <p>Now as in all theſe particulars, Miniſters are fitly compared to Stars; ſo there are many others wherein they do differ one from another.</p>
+            <p>As Firſt, The Heavens cannot be deprived of the Stars: But the Church may be deprived of faithful Miniſters, by the fury and malice
+<pb n="15" facs="tcp:41278:11"/>of Satan and the World, but eſpecially by the Craft and Ambition of ſuch falſe Brethren and Teachers, who under pretence of Purity and Reformation, bring in Anarchy and Confu<g ref="char:EOLhyphen"/>ſion, and cauſe this Spouſe of Chriſt to groan and lament, as once the Old Church of the Jews; <hi>We ſee not our ſigns, there is no more any Prophet, neither is there among us any that knoweth how long.</hi> Pſal. 74.9. As it was our Caſe not many years ago.</p>
+            <p>Secondly, It is an Opinion generally re<g ref="char:EOLhyphen"/>ceived, that the Stars do follow the motion of their Orbs: But it muſt not be ſo with Mini<g ref="char:EOLhyphen"/>ſters, elſe would we ſoon ſee bad work in the Church; as by our late ſad and lamentable Experience it is too too evident.</p>
+            <p>Thirdly, The Stars ſhall loſe their Light, and fall from Heaven at the laſt day, as Chriſt ſaith, <hi>Matth.</hi> 24.29. <hi>The Sun ſhall be darkned,</hi>
+               <note place="margin">Matth. 24.29.</note> 
+               <hi>and the Moon ſhall not give her light, and the Stars ſhall fall from heaven, and the powers of heaven ſhall be ſhaken:</hi> But for the true and faithful Miniſters of Chriſt and his Church, <hi>They ſhall ſhine as the brightneſs of the Firmament, and they that turn many to Righteouſneſs, as the Stars for ever and ever;</hi> as you may ſee <hi>Dan.</hi> chap. 12. verſ. 3. And then that excellent word of <hi>David</hi> ſhall be fulfilled in them, <hi>At thy right hand there are pleaſures for evermore.</hi> Pſal. 16.11.</p>
+            <p>And becauſe even in this life the Myſti<g ref="char:EOLhyphen"/>cal
+<pb n="16" facs="tcp:41278:12"/>Stars, receive from the Myſtical Sun of Righteouſneſs Light, Honour, and Protection, therefore are they ſaid to be in his Right Hand. <hi>And he had in his right hand ſeven Stars.</hi> Which leads me to my Second Obſervation on the Text, Why and how they are ſaid to be in the Right Hand of the Lord Jeſus?</p>
+            <p>Now our reflecting upon the following Ob<g ref="char:EOLhyphen"/>ſervations, will give light and evidence to the <hi>Quaere.</hi>
+            </p>
+            <p>For the Firſt, They are ſaid to be in his Right Hand, becauſe they are in his own power and diſpoſing, and receive every one from him Grace, according to the meaſure of his Gift. <hi>Phil.</hi> 4.7. 'Tis in Mercy and Love he is pleaſed to ſend them unto men, to help them forward in the ways of Salvation, 'tis an effect and fruit of his being on high at the right hand of the Father. <hi>When he aſcended he led captivity captive,</hi>
+               <note place="margin">Epheſ. 4.8.</note> 
+               <hi>and gave gifts unto men;</hi> for he gave ſome Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Paſtors and Teachers; for the perfecting of the Saints, for the work of the Miniſtry, and for the edifying of the Body of Chriſt, <hi>'Till we all come, in the unity of the faith, and of the knowledge of the Son of God,</hi> as St. <hi>Paul</hi> ſaith in the ſame Epiſtle, the ſame Chapter, verſ. 11, 12, 13.</p>
+            <p>Secondly, They are ſaid to be in his Right
+<pb n="17" facs="tcp:41278:12"/>Hand, becauſe it is he, that in the perfor<g ref="char:EOLhyphen"/>mance of their Duty leads them by the aſſiſting Grace of his Spirit, and giveth power and ef<g ref="char:EOLhyphen"/>ficacy to their Words; dealing with them as with his Prophets <hi>Eſay</hi> and <hi>Jeremy,</hi> when he cauſed one of the Seraphims to touch <hi>Eſay's</hi> lips with a live Coal taken from off the Altar, <hi>Iſa.</hi> 6.6. and when he put forth his hand, and touched his mouth, ſaying, <hi>Behold I have put my words in thy mouth.</hi> Jer. <hi>chap.</hi> 1. <hi>verſ.</hi> 9.</p>
+            <p>Thirdly, They are ſaid to be in his right hand, becauſe he loveth and cheriſheth them, above all other things, as we do thoſe things we have in our hands, and are dear unto us. For though they be his Servants, yet he calls them his Friends, and ſaith unto them as he ſaid to his Servants of old, <hi>Thou ſhalt be a crown of glory in the hands of the Lord, and a royal diadem in the hand of thy God.</hi> Iſa. 62.3.</p>
+            <p>In the Fourth place, They are ſaid to be in his right hand, becauſe the Lord's protection and care of them is wonderful, his Eyes and his Heart is continually upon them, as he ſaid of the Temple of <hi>Jeruſalem;</hi> and in their Spiri<g ref="char:EOLhyphen"/>tual War, againſt the World, Satan, Hereſie, and Errour; he is preſent with them, though inviſibly, as the Captain of the Hoſt of the Lord, as he was with <hi>Joſhua,</hi> and the whole Camp of <hi>Iſrael,</hi> before <hi>Jericho,</hi> as you may ſee in the Book of <hi>Joſhua,</hi> chap. 5. verſ. 14.</p>
+            <pb n="18" facs="tcp:41278:13"/>
+            <p>Fifthly, Becauſe he is always at hand to comfort and keep them, againſt their Enemies; and if their Malice and Oppreſſion reduceth them to good King <hi>Jehoſaphat</hi> his Caſe, we know not whither to turn our Eyes for help; or with the Church, in <hi>Iſaiah,</hi> chap. 49. verſ. 14. to complain, and ſay, <hi>The Lord hath forſaken us,</hi> and, <hi>Our God hath forgotten us;</hi> then ſpeaks he unto them, as to his Church and Servants in thoſe days, <hi>I have you graven upon the palms of my hands,</hi> verſ. 16. Thus did he protect with his right hand <hi>Moſes</hi> againſt the fury of <hi>Pharaoh,</hi> the contempt and rebellion of the People; <hi>Je<g ref="char:EOLhyphen"/>remy</hi> and <hi>Baruch,</hi> againſt the Decree of <hi>Jehoia<g ref="char:EOLhyphen"/>kim.</hi> Jer. 36.26. the Prophet <hi>Elias</hi> againſt the rage of <hi>Ahab,</hi> and <hi>Jeſabel;</hi> and St. <hi>Paul</hi> from many dangers and deaths. 2 <hi>Cor.</hi> 1.10.</p>
+            <p>To theſe we may add, that by their being in the right hand of God or Chriſt may be underſtood, that they are in favour with Chriſt, that he honoureth them, and will at laſt, for a merciful Recompence of their La<g ref="char:EOLhyphen"/>bours, make them partakers of the Glory he hath received of the Father; and that he pro<g ref="char:EOLhyphen"/>miſeth them, <hi>Rev.</hi> 3.21. <hi>To him that overcomes will I grant to ſit with me in my throne, even as I alſo overcame, and am ſet down with my Father in his throne.</hi>
+            </p>
+            <p>But Laſtly, I think they may be ſaid to be in the right hand of Chriſt in another ſenſe,
+<pb n="19" facs="tcp:41278:13"/>that is, that he may throw them down from the Firmament of the Church, if they turn from the Holy Commandments delivered unto them. 2 <hi>Pet.</hi> 2.21. For whereas every private Chriſtian is commanded to work out his Sal<g ref="char:EOLhyphen"/>vation with fear and trembling; Miniſters have a double Charge, to Save themſelves, and others, by being Faithful to their Truſt, and fulfilling the Work their Maſter hath entruſted them withall; leſt he being angry, ſhakes them out of his right hand, as men uſe to throw off thoſe things that diſpleaſe them, though they have been never ſo dear to them before. And thus did God formerly deal with <hi>Nadab</hi> and <hi>Abihu,</hi> the Sons of <hi>Aaron,</hi> for Offering ſtrange Fire before the Lord, which he commanded them not; <hi>And there went out a fire from the Lord and devoured them, and they dyed before the Lord; who will be ſanctified in them that come nigh him, and before all the people will he be glo<g ref="char:EOLhyphen"/>rified;</hi> as <hi>Moſes</hi> ſaid after their Sin and Puniſh<g ref="char:EOLhyphen"/>ment, <hi>Levit.</hi> 10.2.</p>
+            <p>And thus did he deal with the two Sons of <hi>Ely,</hi> in the Firſt of <hi>Samuel,</hi> chap. 4. verſ. 11. And ſo in few words have I cleared the matter in hand.</p>
+            <p>Now from theſe few particular Obſervations, the Houſe of <hi>Aaron</hi> and the Houſe of <hi>Iſrael</hi> may learn theſe Leſſons of Inſtruction and Comfort.</p>
+            <p>And Firſt, You the Tribe of <hi>Levi,</hi> the
+<pb n="20" facs="tcp:41278:14"/>Meſſengers of the Lord of Hoſts, learn to be Faithful, Careful and Diligent in your Maſter's Work, and in the Duties of your Sacred Cal<g ref="char:EOLhyphen"/>ling; leſt as unprofitable Servants he throws you off from his Right Hand, and upbraids you as the Prieſts formerly in the days of <hi>Malachy, You are departed out of the way, ye have cauſed many to ſtumble at the Law, and you have cor<g ref="char:EOLhyphen"/>rupted the covenant of Levi: Therefore have I made you contemptible and baſe, before all the peo<g ref="char:EOLhyphen"/>ple; according as you have not kept my ways, but have been partial in the law.</hi> Malach. 2.7, 8, 9. But what do I ſay? God forbid this Cenſure ſhould ever concern us; let us rather ſay of it, as <hi>Daniel</hi> to the King of <hi>Babylon,</hi> concerning his Dream, Let it be to them that hate us, and the Interpretation thereof to the Enemies of Chriſt, and the Diſturbers of the Peace of his Church. <hi>Dan.</hi> 4.19.</p>
+            <p>Secondly, Let it be your Joy and Comfort, to be like the Prophets and Apoſtles of the Lord, and as they were, to be Defamed, and made as the filth of the World, and the off-ſcouring of all things, as St. <hi>Paul</hi> complains, 1. <hi>Cor.</hi> 4.13. ſince you are burning and lightſom Stars in the hands of our Lord Jeſus. Let me ſay to you, what St. <hi>Paul</hi> to the <hi>Coloſſians,</hi> chap. 4. verſ. 17. ſaid to their Miniſter, <hi>Take heed to the miniſtry which you have received of the Lord, that ye fulfill it.</hi> Go on boldly in the Work of your Maſter, for
+<pb n="21" facs="tcp:41278:14"/>you are as ſo many Stars in his Right Hand, whom neither life nor death ſhall ever pluck out of his Hand. For if the Shepherd be better and nobler than the Sheep, then may you par<g ref="char:EOLhyphen"/>ticularly apply to your ſelves that Excellent Promiſe of Chriſt, <hi>Joh.</hi> 10.28. <hi>I give unto them eternal life, they ſhall never periſh, neither ſhall any man pluck them out of my hand.</hi>
+            </p>
+            <p>'Tis true, there are now-a-days many falſe Stars, wandring Stars, as St. <hi>Jude</hi> calls them, <hi>Iude</hi> 9.14. who (as the Bramble would have been King over all the other Trees, <hi>Iudg.</hi> 9.14.) pretend to be the only Stars in the Hands of Chriſt; and perſwade a Crooked Nation, Our Church is as the <hi>Chaos</hi> in the Beginning, and that there is nothing but Darkneſs upon the Face of it, <hi>Gen.</hi> 1.2. Ye therefore, (as the Lord ſaid to <hi>Jeremy,</hi> Jer. 1.17.) gird up your Loyns, and ariſe, and ſpeak unto them all that the Lord commands you: Be not diſmayed at their Faces, for behold he hath made you a Defenced City, and an Iron Pillar, and a Brazen Wall, againſt the whole Land. And they ſhall fight againſt you, but they ſhall not prevail againſt you; for the Lord is with you, to deliver you.</p>
+            <p>Come now, O Houſe of <hi>Iſrael!</hi> and learn, That if theſe be the Priviledges of your Mini<g ref="char:EOLhyphen"/>ſters, if they are Stars in the Hand of your Bleſſed Saviours, to receive them therefore in
+<pb n="22" facs="tcp:41278:15"/>the Lord with all gladneſs, as St. <hi>Paul</hi> comman<g ref="char:EOLhyphen"/>ded the <hi>Philippians</hi> to receive <hi>Timothy,</hi> Phil. 2.29. And as he exhorted to the <hi>Hebrews, Remember them which have the rule over you, who have ſpoken unto you the word of God; whoſe faith follow, con<g ref="char:EOLhyphen"/>ſidering the end of their converſation.</hi> Heb. 13.7. And at <hi>verſ.</hi> 17. <hi>Obey them that have the rule over you, and ſubmit your ſelves; For they watch for your ſouls, as they that muſt give an account; that they may do it with joy, and not with grief, for that is unprofitable for you.</hi> Pray for them, pray for your ſelves, that God may be pleaſed to fill in your Souls, by their Miniſtry, the ſweet Influences of Grace and Mercy in Chriſt, in whoſe right hand they are as ſo many Stars.</p>
+            <p>To conclude, my truly Reverend and Be<g ref="char:EOLhyphen"/>loved Brethren in the Lord, ſeeing there are in our days ſo many Falſe and Wandring Stars, who that they may with more facility lead men in the ways of their own deviſing, pretend to be as it is ſaid of <hi>Simon,</hi> Acts 8.10. the great power of God, and the only <hi>Ioſhua's,</hi> appointed for the introducing of <hi>Iſrael</hi> into the Land of Promiſe. Let our Light ſhine more than ever, that all men may glorifie our Father which is in Heaven, when they ſhall ſee we lead them in the ways of Truth and Righteouſneſs.</p>
+            <p>Let us all be like that Star which led the Wiſe-men to <hi>Bethlehem,</hi> let us point out and ſhew unto men the place where <hi>Ieſus</hi> is to be
+<pb n="23" facs="tcp:41278:15"/>found; and to them, and to us, let the Lord Jeſus give the Morning Star, according to his promiſe. <hi>Rev.</hi> 2.28.</p>
+            <p>And ſince <hi>There is no enchantment against Jacob, neither is there any divination againſt Iſrael.</hi> Num. 23.23. let us as choſen of God and pre<g ref="char:EOLhyphen"/>cious, though diſallowed indeed of moſt men; let us, I ſay, ſo adorn our Holy Prieſthood and Miniſtry, by a diligent care and watching over the Flock of Chriſt, that the <hi>Balaams</hi> of this time, which are hired to Curſe us, may be com<g ref="char:EOLhyphen"/>pelled to cry out at laſt, as their Patron of old, <hi>How goodly are thy tents O Jacob, and thy taber<g ref="char:EOLhyphen"/>nacles O Iſrael!</hi> Num. 24.5.</p>
+            <p>Which that we may all ſee, to our Eternal Comfort,
+<note place="margin">Malach. 4.2.</note> let us beg of the Sun of Righteouſ<g ref="char:EOLhyphen"/>neſs, Jeſus Chriſt our Lord; that he may be pleaſed to dart upon us, the Stars in his right hand, the wholeſom Beams of Grace, and Underſtanding, and Zeal to his Glory, and the Good of his Church; that when we ſhall have made an end of Trafficking with the Ta<g ref="char:EOLhyphen"/>lents he hath beſtowed on us, and having given him a good and faithful Account, we may all hear that Bleſſed and Comfortable word, Well done good and faithful Servants, enter into the joy of your Lord. You have been as ſo many Stars in my right hand, whoſe Beams in the work of your Miniſtry have been darkned by many a Cloud of the
+<pb n="24" facs="tcp:41278:16"/>Sins and Errours of a ſtiff-necked Generation; but now I the Sun of Righteouſneſs will dart Eternally upon you the ſweet and raviſhing Beams of Glory in my Glorious and Everlaſting Sanctuary. To Him, with the Father, and Ever-bleſſed Spirit, be aſcribed all Honour, Power, and Glory, now and for evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41278:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
